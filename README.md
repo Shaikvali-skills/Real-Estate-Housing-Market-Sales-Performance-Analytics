@@ -23,7 +23,7 @@ The housing market produces high-velocity transactional data influenced heavily 
 Focuses on general market health, total sales volumes, and time-based shifts.
 * **Key Metrics:** Features core telemetry cards displaying **453 units sold** in the latest period and a total **12-month sales volume of 11bn**.
 * **Visual Elements:** Includes cross-regional sales price adjustments and Year-Over-Year sales growth trends filtered across distinct sales types (auction vs. regular vs. family sale).
-* ![House Market Overview](Screenshot%202026-06-23%20162808.png)
+* ![House Type Analysis](Screenshot%202026-06-23%20162751.png))
 
 ### 2. Sales Performance Analysis (Operational View)
 Breaks down financial transaction volumes and regional value densities.
@@ -35,8 +35,7 @@ Breaks down financial transaction volumes and regional value densities.
 An analytical perspective cross-examining building profiles against operational yields and financial costs.
 * **Key Metrics:** Identifies Farm properties as leading baseline acquisition values at an average **2.7M Offer/Purchase price** paired with maximum asset spacing (**196.32 Avg SQM**).
 * **Visual Elements:** Side-by-side matrices comparing inflation-to-yield scales next to SQM/SQM price density pairings.
-* ![House Type Analysis](Screenshot%202026-06-23%20162751.png)
-
+* ![House Market Overview](Screenshot%202026-06-23%20162808.png)
 ---
 
 ## 🛠️ Data Model & Technical Stack
